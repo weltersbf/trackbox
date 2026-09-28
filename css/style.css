@@ -1,0 +1,22 @@
+
+body {
+    background-image: url(/images/fundo.png);
+
+    margin: 0;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:  center;
+
+    background-color: #060000;
+    color: rgb(252, 251, 251);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+
+}

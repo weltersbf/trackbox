@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SIGN UP</title>
+
+    <link rel="stylesheet" href="sign_up.css">
+
+</head>
+<body>
+
+    <h1>SIGN UP</h1>
+
+    <form action="sign_up.php" method="post">
+
+        Full name: <input type="text" name="name"><br><br>
+
+        Username: <input type="text" name="username"><br><br>
+
+        Date of birth:<input type="date" name="birthday"><br><br>
+
+        <label for="country">Country:</label>
+
+        <select name="country" id="country">
+            <option value=" ">SELECT YOUR COUNTRY</option>
+            <option value="Brazil">Brazil</option>
+            <option value="USA">USA</option>
+            <option value="Argentina">Argentina</option>
+            <option value="Chile">Chile</option>
+            <option value="Canada">Canada</option>
+        </select><br>
+
+        E-mail: <input type="email" name="email"> <i>(your best e-mail)</i> <br><br>
+
+        Password: <input type="password" name="password"> <i>(must contain uppercase letters and special characters)</i><br><br>
+
+        Confirm password: <input type="password" name="confirm_password"> <i>(the passwords must match)</i><br>
+
+        <input type="submit" value="SIGN UP">
+
+        <p>Already registered? <a href="login.html">Log in</a></p>
+
+    </form>
+    
+
+
+
+    
+</body>
+</html>
