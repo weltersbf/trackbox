@@ -72,6 +72,14 @@ Projeto desenvolvido para fins de estudo e portfólio.
 
 ![TrackBox Home Topics](trackbox%20screenshot/home%20topics.jpeg)
 
+### Login
+
+![TrackBox Login](trackbox%20screenshot/login.jpeg)
+
+### Sign Up
+
+![TrackBox Sign Up](trackbox%20screenshot/sign%20up.jpeg)
+
 ### Player
 
 ![TrackBox Player](trackbox%20screenshot/player.jpeg)
