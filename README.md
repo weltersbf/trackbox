@@ -61,3 +61,21 @@ Novas funcionalidades e melhorias de interface podem ser adicionadas futuramente
 **Gabriel Welter**
 
 Projeto desenvolvido para fins de estudo e portfólio.
+
+## 📸 Screenshots
+
+### Home
+
+![TrackBox Home](trackbox%20screenshot/home.jpg)
+
+### Home — Topics
+
+![TrackBox Home Topics](trackbox%20screenshot/home%20topics.jpeg)
+
+### Player
+
+![TrackBox Player](trackbox%20screenshot/player.jpeg)
+
+### Profile
+
+![TrackBox Profile](trackbox%20screenshot/profile.jpeg)
